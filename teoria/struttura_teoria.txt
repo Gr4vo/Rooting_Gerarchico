@@ -1,0 +1,12 @@
+In una rete informatica, possiamo pensare alla struttura gerarchica come al modo in cui un'organizzazione è organizzata. 
+Così come un'azienda ha diversi livelli di responsabilità e autorità, una rete informatica è suddivisa in livelli o strati, 
+ciascuno con compiti e responsabilità specifiche. 
+
+Il backbone di rete costituisce il livello più alto della gerarchia e funge da principale punto di connessione per tutte le sottoreti e i dispositivi all'interno di una rete. 
+È responsabile della trasmissione veloce e affidabile dei dati su lunghe distanze, collegando tutti i livelli della gerarchia.
+
+Questa struttura gerarchica non è solo una questione di organizzazione, 
+ma è essenziale per il funzionamento efficiente della rete. Aiuta a gestire il traffico in modo ordinato e ottimizzato, 
+migliorando l'efficienza complessiva della rete. 
+
+Ora, esploreremo più in dettaglio i tre principali livelli di routing all'interno di questa struttura: il livello di accesso, il livello di distribuzione e il livello di core.

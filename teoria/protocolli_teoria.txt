@@ -1,0 +1,13 @@
+Dopo aver esaminato i tre livelli principali di routing, è importante capire come i dati vengono effettivamente instradati attraverso la rete. 
+Questo è dove entrano in gioco i protocolli di routing. I protocolli di routing sono come le regole e i protocolli che guidano il traffico attraverso la rete, 
+assicurandosi che arrivi al suo destino nel modo più efficiente possibile.
+
+OSPF (Open Shortest Path First) è un protocollo di routing interno utilizzato principalmente nei router di distribuzione e di core. 
+Utilizza un algoritmo basato su Dijkstra per calcolare i percorsi più brevi tra i router e aggiornare dinamicamente 
+le tabelle di routing in base alle modifiche della topologia di rete.
+
+D'altra parte, BGP (Border Gateway Protocol) è un protocollo di routing esterno ampiamente utilizzato per scambiare informazioni di routing tra 
+i diversi sistemi autonomi su Internet. È fondamentale per il funzionamento di Internet e per consentire il routing del traffico tra reti separate.
+
+Altri protocolli di routing, come RIP (Routing Information Protocol) e EIGRP (Enhanced Interior Gateway Routing Protocol), 
+offrono approcci diversi alla determinazione dei percorsi e alla gestione del traffico, con prestazioni e applicazioni specifiche.

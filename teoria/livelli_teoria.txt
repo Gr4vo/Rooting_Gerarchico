@@ -1,0 +1,31 @@
+Livelli di Routing: Accesso, Distribuzione, Core
+
+Livello di Accesso:
+
+Descrizione: 
+Il livello di accesso è il primo livello della gerarchia delle reti ed è il punto di accesso per i dispositivi finali come computer, 
+telefoni, stampanti, e dispositivi IoT. È il livello in cui questi dispositivi si connettono direttamente alla rete.
+Caratteristiche:
+È responsabile della connessione diretta dei dispositivi finali alla rete.
+Include dispositivi come switch Ethernet, access point Wi-Fi e switch di accesso.
+Solitamente opera a velocità di rete inferiori rispetto ai livelli superiori.
+
+Livello di Distribuzione:
+
+Descrizione: 
+Il livello di distribuzione è responsabile della distribuzione del traffico tra i dispositivi di accesso e i router di livello superiore. 
+Ha il compito di gestire il flusso di dati e di instradare il traffico attraverso la rete.
+Caratteristiche:
+Collega i dispositivi di accesso ai router di livello superiore.
+Utilizza spesso dispositivi come switch Layer 3, che supportano funzionalità di routing e commutazione.
+Agisce da punto di controllo del traffico nella rete, applicando politiche di sicurezza e di gestione del traffico.
+
+Livello di Core:
+
+Descrizione: 
+Il livello di core è il livello più alto della gerarchia delle reti ed è responsabile dell'instradamento del traffico tra i vari router di distribuzione. 
+Il suo compito principale è garantire che il traffico possa fluire in modo efficiente tra le diverse parti della rete.
+Caratteristiche:
+È il "nucleo" della rete, che collega i diversi segmenti e sottoreti.
+Utilizza dispositivi di rete ad alta capacità come router di core e switch di backbone.
+Opera a velocità elevatissime e deve essere altamente affidabile e ridondante per garantire una connettività continua.

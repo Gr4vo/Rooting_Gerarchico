@@ -1,0 +1,11 @@
+Il routing gerarchico è un concetto importante nelle reti informatiche che aiuta a organizzare ed ottimizzare il modo in cui i dati viaggiano attraverso una rete. 
+Immagina una grande città con strade che la collegano: cosi come ci sono strade principali che collegano le diverse parti della città, 
+nelle reti informatiche ci sono rotte principali, chiamate "backbone", che collegano i vari segmenti della rete. Il routing gerarchico organizza 
+queste rotte in un modo ordinato e gerarchico per migliorare l'efficienza e la gestione della rete.
+
+Il routing gerarchico è un concetto fondamentale nell'ambito delle reti informatiche, sia per internet che per reti locali. 
+Si tratta di una metodologia di progettazione e gestione delle reti che organizza i dispositivi di rete in una struttura gerarchica, 
+consentendo una gestione più efficiente e scalabile delle comunicazioni dati.
+
+
+
