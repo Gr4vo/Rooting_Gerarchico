@@ -1,0 +1,10 @@
+//albano
+1. Introduzione al Routing Gerarchico
+5. Protocolli di Routing Utilizzati
+3. Struttura Gerarchica delle Reti
+4. Livelli di Routing: Accesso, Distribuzione, Core
+//gravino
+2. Storia del Routing Gerarchico
+6. Vantaggi del Routing Gerarchico
+7. Scalabilità e Ridondanza
+8. conclusione n/a
